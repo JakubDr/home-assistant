@@ -1,0 +1,16 @@
+Home Assistant Backup Emergency Kit
+
+This emergency kit contains your backup encryption key. You need this key to be able to restore your Home Assistant backups.
+
+Date: January 15, 2025 at 8:25 PM
+
+Instance:
+Home
+
+URL:
+http://homeassistant.local:8123
+
+Encryption key:
+KZFX-8B5W-1SJS-PCOT-EP6M-4T5J-ZWIO
+
+For more information, visit https://www.home-assistant.io/more-info/backup-emergency-kit
